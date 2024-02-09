@@ -1,0 +1,44 @@
+1     Write python programs , which accept two inputs and perform the following arithmetic operations
+	i)    Addition (+)
+        ii)   Subtraction (-)
+        iii)  Multiplication (*)
+        iv)   Division (/)
+        v)    Modulus (%)
+        vi)   Exponentiation (**)
+        vii)  Floor Division (//)  
+2    Python Program to replicate bank transaction: min balance 500, ask user to the amount to withdraw, 
+     print the balance amount after withdrawal, if user enters an amount greater than balance: print:: insufficient balance. 
+     if balance is below 500 print an alert message : your account balance is "available_balance", Please  keep your account balance above Rs.500 to avoid unwanted charges.
+3    Print the greatest of the 3 numbers taken as input, print equal if all three numbers are the same
+4    Python program to check the number taken as an input is even or odd,print invalide input if user enters anything other than integers
+5    Python program to check the score from a student ,print grades as A+ if score >= 90,A if 80 or above, B+ if 70 or above and so on... 
+     print failed if the score is below 50, if score > 100 print invalid
+6    Python program to print all even/odd numbers in the range given by user
+7    Python program to print the multiplication table of any number (number should be taken as input and user decides the end limit of the table)
+8    Find the factorial of a number taken as input using for loop
+9    Find the factorial of a number taken as input using while loop
+10    Find the sum of all even numbers between the range given by user
+11   Find the sum of all odd numbers between the rane given by user using while loop
+12   Print first 10 fibonacci numbers using 'for' and 'while' loops
+13   print the following patterns
+(a)
+	    *
+           * *
+          * * *
+         * * * *
+
+(b)		o
+		1 2
+		3 4 5
+		6 7 8 9
+
+
+(c)		o
+		1 1
+		2 2 2
+		3 3 3 3
+
+(d)		*
+		* *
+		* * *
+		* * * *
