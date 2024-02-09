@@ -17,7 +17,7 @@ def modulus(a, b):
     if b != 0:
         return a % b
     else:
-        return "Error: Modulus by zero"
+        return "Error"
 
 def exponentiation(a, b):
     return a ** b
@@ -26,7 +26,7 @@ def floor(a, b):
     if b != 0:
         return a // b
     else:
-        return "Error: Floor division by zero"
+        return "Error"
 
 n1 = float(input("Enter first number: "))
 n2 = float(input("Enter second number: "))
