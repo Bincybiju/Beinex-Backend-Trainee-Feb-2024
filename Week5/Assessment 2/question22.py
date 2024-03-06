@@ -5,7 +5,7 @@
 # Enter Second Value: 20
 # 0.5
 
-def add_two_integers():
+def divide_two_integers():
     try:
         first_number = int(input("Enter First Value: "))
 
@@ -24,4 +24,4 @@ def add_two_integers():
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
 
-add_two_integers()
+divide_two_integers()
