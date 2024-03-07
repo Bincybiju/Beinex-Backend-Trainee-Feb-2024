@@ -67,9 +67,9 @@ SELECT * FROM emp WHERE Age BETWEEN 20 AND 30;
 SELECT * FROM emp WHERE Height BETWEEN 170 AND 180;
 
 -- Retrieve individuals who are younger than 25, from Italy, and have a grade of 'A':
-SELECT * FROM emp WHERE Age < 25 AND Country = 'Italy' AND Grade = 'A';
+SELECT * FROM emp WHERE Age < 25 AND Country = 'Australia' AND Grade = 'A';
 
 -- Retrieve individuals who have a height between 160 and 180 cm and a weight between 50 and 70 kg:
-SELECT * FROM MyTable WHERE Height BETWEEN 160 AND 180 AND Weight BETWEEN 50 AND 70;
+SELECT * FROM emp WHERE Height BETWEEN 160 AND 180 AND Weight BETWEEN 50 AND 70;
 
 
